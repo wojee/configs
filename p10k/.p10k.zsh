@@ -4,6 +4,7 @@
 # disconnected, sparse, concise, transient_prompt, instant_prompt=verbose.
 # Type `p10k configure` to generate another config.
 #
+#
 # Config for Powerlevel10k with powerline prompt style with colorful background.
 # Type `p10k configure` to generate your own config based on it.
 #
